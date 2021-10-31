@@ -1,0 +1,139 @@
+.circle{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    background-color: rgba(2, 2, 26, 0.89);
+    margin: 0 auto;
+}
+.innercircle{
+    width: 180px;
+    height: 180px;
+    border-radius: 30%;
+    background-color: rgba(168, 164, 52, 0.89);
+    margin-left: 585px;
+    margin-top: -239px;
+    
+}
+.rectangle{
+    width: 300px;
+    height: 150px;
+    background-color: rgb(60, 128, 60);
+    border-radius: 15%;
+    margin-left: 525px;
+    margin-top: 0.1px;
+}
+.small{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-color: rgba(168, 164, 52, 0.89);
+    margin-left: 645px;
+    margin-top: -160px;
+}
+.ear1{
+    width: 15px;
+    height: 20px;
+    background-color: rgba(168, 164, 52, 0.89);
+    border-radius: 40%;
+    margin-left: 573px;
+    margin-top: -170px;
+}
+.ear2{
+    width: 15px;
+    height: 20px;
+    background-color: rgba(168, 164, 52, 0.89);
+    border-radius: 40%;
+    margin-left: 763px;
+    margin-top: -23px;
+}
+.earb{
+    width: 5px;
+    height: 10px;
+    background-color: rgba(12, 12, 11, 0.89);
+    border-radius: 50%;
+    margin-left: 579px;
+    margin-top: -10px;
+}
+.earb1{
+    width: 5px;
+    height: 10px;
+    background-color: rgba(12, 12, 11, 0.89);
+    border-radius: 50%;
+    margin-left: 766px;
+    margin-top: -13px;
+}
+.eye1{
+    background-color: black;
+    width: 20px;
+    height: 40px;
+    border-radius: 50%;
+    margin-left: 610px;
+    margin-top: -10px;
+}
+.eye2{
+    background-color: black;
+    width: 20px;
+    height: 40px;
+    border-radius: 50%;
+    margin-left: 720px;
+    margin-top: -40px;
+}
+.eye11{
+    background-color: rgba(168, 164, 52, 0.89);
+    width: 15px;
+    height: 20px;
+    border-radius: 50%;
+    margin-left: 725px;
+    margin-top: -28px;
+}
+.eye22{
+    background-color: rgba(168, 164, 52, 0.89);
+    width: 15px;
+    height: 20px;
+    border-radius: 50%;
+    margin-left: 610px;
+    margin-top: -20px;
+}
+.mos{
+    background-color: black;
+    width: 50px;
+    height: 10px;
+    border-radius: 50%;
+    margin-left: 650px;
+    margin-top: 25px;
+}
+.tr{
+    border-top: 25px solid rgba(50, 50, 92, 0.418);
+    border-left: 25px solid transparent;
+    border-right: 25px solid transparent;
+    margin-left: 650px;
+    margin-top: 9px;
+    width: 0;
+    height: 0;
+}
+.hair{
+    width: 0;
+    height: 0;
+    border-bottom: 100px solid black;
+    border-left: 100px solid transparent;
+    border-right: 100px solid transparent;
+    margin-left: 575px;
+    margin-top: -230px;
+    
+}
+.br{
+    width: 30px;
+    height: 5px;
+    background-color: black;
+    border-radius: 50%;
+    margin-left: 605px;
+    margin-top: 10px;
+}
+.br2{
+    width: 30px;
+    height: 5px;
+    background-color: black;
+    border-radius: 50%;
+    margin-left: 715px;
+    margin-top: -5px;
+}
